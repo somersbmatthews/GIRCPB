@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.API", "Account.API\Account.API.csproj", "{65559497-5AA3-4FF7-A405-D01B980514B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIRCPB.Specs", "GIRCPB.Specs\GIRCPB.Specs.csproj", "{23F65C5B-C2FF-481E-848B-33FE67B3366B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65559497-5AA3-4FF7-A405-D01B980514B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65559497-5AA3-4FF7-A405-D01B980514B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65559497-5AA3-4FF7-A405-D01B980514B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65559497-5AA3-4FF7-A405-D01B980514B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F65C5B-C2FF-481E-848B-33FE67B3366B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F65C5B-C2FF-481E-848B-33FE67B3366B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F65C5B-C2FF-481E-848B-33FE67B3366B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F65C5B-C2FF-481E-848B-33FE67B3366B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
